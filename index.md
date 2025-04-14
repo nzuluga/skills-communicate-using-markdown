@@ -11,3 +11,9 @@ Pruebas para el markdown para escribir documentos en documento de github.
 Dim a as integer=0
 
 ```
+
+
+- [x] titulos
+- [x] imagenes
+- [x] código
+- [ ] listas 
